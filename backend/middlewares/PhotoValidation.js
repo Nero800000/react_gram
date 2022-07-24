@@ -1,4 +1,4 @@
-const {body} = require("express-validator")  //vamo tankar mais merdaaaaaa  // so destrava a mente, para sempre Voce consegue!!!!!!
+const {body} = require("express-validator")  
 
 
 
