@@ -1,5 +1,4 @@
 
-//senha do banco KjoXO1wDKlXuXyb8
 
 const { compare } = require("bcryptjs")
 const mongoose = require("mongoose")
